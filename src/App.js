@@ -14,6 +14,7 @@ function App() {
         <Text name = "barry"/>
         <Text name = "larry"/>
         <Button />
+        <Button />
 
         <a
           className="App-link"
