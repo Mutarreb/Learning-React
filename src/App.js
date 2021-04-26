@@ -12,7 +12,7 @@ function App() {
           Hello world!
         </p>
         <Text name = "barry"/>
-        <Text name = "larry"/>
+        <Text name = "larryy"/>
         <Button />
         <Button />
         <Button />
