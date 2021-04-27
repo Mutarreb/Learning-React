@@ -2,7 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 import {Text} from './components/Text'
 import {Button} from './components/Button'
+import {List} from './components/List'
 
+const items = [
+  {"name" : "banana", "colour":" yellow"},
+  {"name" : "apple", "colour":" red"},
+  {"name" : "grapes", "colour":" green"},
+]
 function App() {
   return (
     <div className="App">
@@ -11,11 +17,13 @@ function App() {
         <p>
           Hello world!
         </p>
-        <Text name = "barry"/>
-        <Text name = "larryy"/>
+        <Text name = "barry"color ="yellow"/>
+        <Text name = "larryy" color ="red"/>
+        <Text name ="Ahmed" color =" gold" />
+        <Button start= {3}/>
+        <Button start = {100} />
         <Button />
-        <Button />
-        <Button />
+        <List items_list = {items}/>
 
         <a
           className="App-link"
