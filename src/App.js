@@ -9,9 +9,10 @@ import {Pricing} from './components/Pricing'
 import {Attractions} from './components/Attractions'
 import {Contact} from './components/Contact'
 import {Book} from './components/Book'
+import {NotFound} from './components/NotFound'
 
 const NavItems = [
-  { "name": "Home", "link": "/home" },
+  { "name": "Home", "link": "/" },
   { "name": "The Apartment", "link": "/apartment" },
   { "name": "Pricing", "link": "/pricing"},
   { "name": "Book", "link": "/book" },
@@ -21,10 +22,15 @@ const NavItems = [
 function App() {
   return (
     <div className=" website">
-      {/* <Header logo = {Logo} nav = {NavItems}/>  */}
       <Header logo = {logo} nav = {NavItems}/>
       <main className="content ">
         <Switch>
+
+          <Route exact path ="/">
+            <Home/>
+          </Route>
+
+
           <Route path ="/home">
             <Home/>
           </Route>
@@ -47,6 +53,10 @@ function App() {
 
           <Route path ="/attractions">
             <Attractions/>
+          </Route>
+          
+          <Route path ="*">
+            <NotFound />
           </Route>
 
           </Switch>
