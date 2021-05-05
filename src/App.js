@@ -1,5 +1,5 @@
 // import Logo from './igloo-solid.png'
-import logo from './sorrento_by_the_sea_logo.jpg'
+import logo from './igloo-solid.png'
 import './App.css';
 import {Header} from './components/Header'
 import {Switch, Route} from 'react-router-dom'
@@ -62,7 +62,7 @@ function App() {
           </Switch>
           </main>`
 
-      <footer className="fotter"> </footer>
+      <footer className="footer"> </footer>
 
     </div>
 
