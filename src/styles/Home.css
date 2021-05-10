@@ -1,5 +1,5 @@
 .home{
-    background-color: rgb(139, 179, 157);
+    background-color: rgb(212, 176, 75);
     display:grid;
     grid-template-columns: 1fr 1fr;
 }

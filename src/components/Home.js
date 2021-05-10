@@ -3,16 +3,16 @@ export function Home (props) {
     return (
 <div className ="home"> 
 <article class="card">
-    <h4>Article one </h4>
+    <h4>About us </h4>
     <p>
-        this is article one
+        this is article describes the apartment and tell the customers about us
     </p>
 </article>
 
 <article class="card">
     <h4>Article two</h4>
     <p>
-        this is article two
+        How to get here
     </p>
 </article>
 
@@ -26,19 +26,20 @@ export function Home (props) {
 <article class="card">
     <h4>Article four</h4>
     <p>
-        this is article four
+        this video shows the apartment and the local area
     </p>
+    <iframe className = "video" width="560" height="315" src="https://www.youtube.com/embed/KE0SbDBw-ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </article>
 
-    <h2>About Us:
-        Attractive photos about the apartment and the nearby places).
--	Content: will be divided into four sections two columns and two rows describe the following: about the company (including the video), testimonies; Pet Friendly policies; Getting there.
-</h2>
+<article class="card">
+    <h4>Article five</h4>
+    <p>
+        this is article five
+    </p>
+    
 
-<iframe className = "video" width="560" height="315" src="https://www.youtube.com/embed/KE0SbDBw-ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
+</article>
 
 </div>
     )

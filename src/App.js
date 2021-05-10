@@ -1,4 +1,3 @@
-// import Logo from './igloo-solid.png'
 import logo from './igloo-solid.png'
 import './App.css';
 import {Header} from './components/Header'
@@ -10,6 +9,8 @@ import {Attractions} from './components/Attractions'
 import {Contact} from './components/Contact'
 import {Book} from './components/Book'
 import {NotFound} from './components/NotFound'
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Oswald&display=swap"
+    rel="stylesheet"></link>
 
 const NavItems = [
   { "name": "Home", "link": "/" },
