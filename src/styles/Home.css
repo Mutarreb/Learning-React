@@ -1,16 +1,16 @@
 
-.video{
-    aspect-ratio: 16 / 9;
+.video {
+    aspect-ratio: 16/9;
     background-color: black;
     position:relative;
-
+    
 }
+
 .video > iframe {
     position: absolute;
     width: 100%;
     height: 100%;
 }
-.home{
-max-width: 1024;
-margin: 1em auto;
-}
+
+
+
