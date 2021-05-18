@@ -19,11 +19,16 @@
     display:block;
     padding:12px;
     text-decoration:none;
-    color:black;
+    color:rgb(17, 87, 87);
 
 }
 
 .navigation a:hover{
     color:white;
-    background-color:black;
+    background-color:rgb(163, 91, 43);
+}
+
+.navigation a.active {
+
+    font-weight: bold;
 }
