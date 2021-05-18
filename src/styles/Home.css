@@ -1,9 +1,13 @@
 
+.Home{
+    max-width:1024px;
+    margin:1em auto;
+
+}
 .video {
     aspect-ratio: 16/9;
     background-color: black;
-    position:relative;
-    
+    position:relative;  
 }
 
 .video > iframe {

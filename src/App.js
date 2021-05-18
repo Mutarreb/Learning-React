@@ -1,4 +1,4 @@
-import logo from './igloo-solid.png'
+import logo from './imgbin_green-building-innovation-accommodation-hotel-png.png'
 import './App.css';
 import {Header} from './components/Header'
 import {Switch, Route} from 'react-router-dom'
