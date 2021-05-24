@@ -1,4 +1,4 @@
-import logo from './imgbin_green-building-innovation-accommodation-hotel-png.png'
+import logo from './sorrento_by_the_sea_logo.jpg'
 import './App.css';
 import {Header} from './components/Header'
 import {Switch, Route} from 'react-router-dom'
@@ -9,6 +9,7 @@ import {Attractions} from './components/Attractions'
 import {Contact} from './components/Contact'
 import {Book} from './components/Book'
 import {NotFound} from './components/NotFound'
+import {Footer} from './components/Footer'
 
 
 const NavItems = [
@@ -60,9 +61,12 @@ function App() {
           </Route>
 
           </Switch>
+        
           </main>`
 
-      <footer className="footer"> </footer>
+          <Footer/>
+          
+
 
     </div>
 

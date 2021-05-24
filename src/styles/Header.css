@@ -1,11 +1,11 @@
 .header {
-    background-color:rgb(53, 161, 161);
+    background-color:rgb(105, 35, 35);
     display:grid;
     grid-template-columns: 1fr 1fr;
 
 }
 .logo {
-    width:140px;
+    width:400px;
     height:100px;
 }
 
@@ -19,13 +19,13 @@
     display:block;
     padding:12px;
     text-decoration:none;
-    color:rgb(102, 49, 25);
+    color:rgb(233, 198, 202);
 
 }
 
 .navigation a:hover{
     color:white;
-    background-color:rgb(163, 91, 43);
+    background-color:rgb(107, 189, 189);
 }
 
 .navigation a.active {
