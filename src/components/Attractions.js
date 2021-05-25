@@ -4,7 +4,10 @@ export function Attractions (props) {
     return (
         <div className ="Attractions">
             <Banner image ={BannerImage} alt ="Sorrento Attractions" />
-            <h2>Attractions</h2>
+            <div className ="content">
+
+                
+            </div>
         </div>
     )
 }
