@@ -1,6 +1,6 @@
 import "../styles/Apartment.css"
 import { Banner } from './Banner'
-import BannerImage from '../banners/britt-gaiser-eNzBGf4fucc-unsplash.jpg'
+import BannerImage from '../banners/sam-moqadam-3wwp3A3yLdg-unsplash.jpg'
 import AppartmentBath from '../appartment/apartment_bath.jpg'
 import AppartmentFront from '../appartment/apartment_front.jpg'
 import AppartmentGarden from '../appartment/apartment_garden.jpg'
