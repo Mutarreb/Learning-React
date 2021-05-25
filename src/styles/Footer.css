@@ -1,17 +1,26 @@
 .main-footer {
     background-color:rgb(105, 35, 35);
-
-    bottom: 0; position: fixed;
+    bottom: 0; 
     width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
     
 }
 .copyright {
     color: rgb(199, 184, 183);
-    text-align: center;
+    /* text-align: right; */
+    padding: 10px;
+    grid-column-start: 3;
+    justify-self: end;
+    align-self: center;
+    margin: 5px;
+
 }
-/* .social-nav {
-    align-content: center;
-} */
+.social-nav {
+    align-self: center;
+    grid-column-start:1;
+}
 .social-nav a {
     color: rgb(199, 184, 183);
     text-decoration: none;
