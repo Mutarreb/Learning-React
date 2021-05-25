@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c82288f.chunk.css",
+    "main.js": "/static/js/main.d8c6c1f3.chunk.js",
+    "main.js.map": "/static/js/main.d8c6c1f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d74e2c6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d74e2c6b.js.map",
+    "static/js/2.ab0606e6.chunk.js": "/static/js/2.ab0606e6.chunk.js",
+    "static/js/2.ab0606e6.chunk.js.map": "/static/js/2.ab0606e6.chunk.js.map",
+    "static/js/3.00794eb1.chunk.js": "/static/js/3.00794eb1.chunk.js",
+    "static/js/3.00794eb1.chunk.js.map": "/static/js/3.00794eb1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c82288f.chunk.css.map": "/static/css/main.5c82288f.chunk.css.map",
+    "static/js/2.ab0606e6.chunk.js.LICENSE.txt": "/static/js/2.ab0606e6.chunk.js.LICENSE.txt",
+    "static/media/apartment_bath.1db7b006.jpg": "/static/media/apartment_bath.1db7b006.jpg",
+    "static/media/apartment_front.5f1062c2.jpg": "/static/media/apartment_front.5f1062c2.jpg",
+    "static/media/apartment_garden.172f48c2.jpg": "/static/media/apartment_garden.172f48c2.jpg",
+    "static/media/fabio-fistarol-vkLv1LP_xCw-unsplash.996a3123.jpg": "/static/media/fabio-fistarol-vkLv1LP_xCw-unsplash.996a3123.jpg",
+    "static/media/sam-moqadam-3wwp3A3yLdg-unsplash.f936767d.jpg": "/static/media/sam-moqadam-3wwp3A3yLdg-unsplash.f936767d.jpg",
+    "static/media/sorrento_by_the_sea_logo.da3aa440.jpg": "/static/media/sorrento_by_the_sea_logo.da3aa440.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d74e2c6b.js",
+    "static/js/2.ab0606e6.chunk.js",
+    "static/css/main.5c82288f.chunk.css",
+    "static/js/main.d8c6c1f3.chunk.js"
+  ]
+}
