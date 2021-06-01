@@ -2,6 +2,8 @@ import '../styles/Contact.css'
 
 export function Contact(props) {
     return (
+
+        <div className ="grid">
         <div className="Contact">
             <h2>Contact Us</h2>
             <form
@@ -23,6 +25,7 @@ export function Contact(props) {
                 <button type ="submit"> Send </button>
 
             </form>
+        </div>
         </div>
     )
 }

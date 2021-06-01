@@ -4,3 +4,12 @@
     min-height: 100vh;
     background-color: rgb(209, 164, 112);
 }
+
+.card {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+    align-items: center;
+    
+ } 
