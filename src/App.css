@@ -2,7 +2,7 @@
     display:grid;
     grid-template-rows: auto 1fr auto;
     min-height: 100vh;
-    background-color: rgb(209, 164, 112);
+    background-color: rgb(241, 240, 240);
 }
 
 .card {
