@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Learning-React/static/css/main.2804e801.chunk.css",
-    "main.js": "/Learning-React/static/js/main.40ae93e5.chunk.js",
-    "main.js.map": "/Learning-React/static/js/main.40ae93e5.chunk.js.map",
-    "runtime-main.js": "/Learning-React/static/js/runtime-main.4fef530b.js",
-    "runtime-main.js.map": "/Learning-React/static/js/runtime-main.4fef530b.js.map",
-    "static/js/2.ab0606e6.chunk.js": "/Learning-React/static/js/2.ab0606e6.chunk.js",
-    "static/js/2.ab0606e6.chunk.js.map": "/Learning-React/static/js/2.ab0606e6.chunk.js.map",
-    "static/js/3.00794eb1.chunk.js": "/Learning-React/static/js/3.00794eb1.chunk.js",
-    "static/js/3.00794eb1.chunk.js.map": "/Learning-React/static/js/3.00794eb1.chunk.js.map",
-    "index.html": "/Learning-React/index.html",
-    "static/css/main.2804e801.chunk.css.map": "/Learning-React/static/css/main.2804e801.chunk.css.map",
-    "static/js/2.ab0606e6.chunk.js.LICENSE.txt": "/Learning-React/static/js/2.ab0606e6.chunk.js.LICENSE.txt",
-    "static/media/apartment_bath.1db7b006.jpg": "/Learning-React/static/media/apartment_bath.1db7b006.jpg",
-    "static/media/apartment_front.5f1062c2.jpg": "/Learning-React/static/media/apartment_front.5f1062c2.jpg",
-    "static/media/apartment_garden.172f48c2.jpg": "/Learning-React/static/media/apartment_garden.172f48c2.jpg",
-    "static/media/fabio-fistarol-vkLv1LP_xCw-unsplash.996a3123.jpg": "/Learning-React/static/media/fabio-fistarol-vkLv1LP_xCw-unsplash.996a3123.jpg",
-    "static/media/sam-moqadam-3wwp3A3yLdg-unsplash.f936767d.jpg": "/Learning-React/static/media/sam-moqadam-3wwp3A3yLdg-unsplash.f936767d.jpg",
-    "static/media/sorrento_by_the_sea_logo.da3aa440.jpg": "/Learning-React/static/media/sorrento_by_the_sea_logo.da3aa440.jpg"
+    "main.css": "/Sorrento-by-the-Sea/static/css/main.6e960e55.chunk.css",
+    "main.js": "/Sorrento-by-the-Sea/static/js/main.ad1e201e.chunk.js",
+    "main.js.map": "/Sorrento-by-the-Sea/static/js/main.ad1e201e.chunk.js.map",
+    "runtime-main.js": "/Sorrento-by-the-Sea/static/js/runtime-main.cfbf31a1.js",
+    "runtime-main.js.map": "/Sorrento-by-the-Sea/static/js/runtime-main.cfbf31a1.js.map",
+    "static/js/2.ab0606e6.chunk.js": "/Sorrento-by-the-Sea/static/js/2.ab0606e6.chunk.js",
+    "static/js/2.ab0606e6.chunk.js.map": "/Sorrento-by-the-Sea/static/js/2.ab0606e6.chunk.js.map",
+    "static/js/3.00794eb1.chunk.js": "/Sorrento-by-the-Sea/static/js/3.00794eb1.chunk.js",
+    "static/js/3.00794eb1.chunk.js.map": "/Sorrento-by-the-Sea/static/js/3.00794eb1.chunk.js.map",
+    "index.html": "/Sorrento-by-the-Sea/index.html",
+    "static/css/main.6e960e55.chunk.css.map": "/Sorrento-by-the-Sea/static/css/main.6e960e55.chunk.css.map",
+    "static/js/2.ab0606e6.chunk.js.LICENSE.txt": "/Sorrento-by-the-Sea/static/js/2.ab0606e6.chunk.js.LICENSE.txt",
+    "static/media/apartment_bath.1db7b006.jpg": "/Sorrento-by-the-Sea/static/media/apartment_bath.1db7b006.jpg",
+    "static/media/apartment_front.5f1062c2.jpg": "/Sorrento-by-the-Sea/static/media/apartment_front.5f1062c2.jpg",
+    "static/media/apartment_garden.172f48c2.jpg": "/Sorrento-by-the-Sea/static/media/apartment_garden.172f48c2.jpg",
+    "static/media/fabio-fistarol-vkLv1LP_xCw-unsplash.996a3123.jpg": "/Sorrento-by-the-Sea/static/media/fabio-fistarol-vkLv1LP_xCw-unsplash.996a3123.jpg",
+    "static/media/sam-moqadam-3wwp3A3yLdg-unsplash.f936767d.jpg": "/Sorrento-by-the-Sea/static/media/sam-moqadam-3wwp3A3yLdg-unsplash.f936767d.jpg",
+    "static/media/sorrento_by_the_sea_logo.da3aa440.jpg": "/Sorrento-by-the-Sea/static/media/sorrento_by_the_sea_logo.da3aa440.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fef530b.js",
+    "static/js/runtime-main.cfbf31a1.js",
     "static/js/2.ab0606e6.chunk.js",
-    "static/css/main.2804e801.chunk.css",
-    "static/js/main.40ae93e5.chunk.js"
+    "static/css/main.6e960e55.chunk.css",
+    "static/js/main.ad1e201e.chunk.js"
   ]
 }
