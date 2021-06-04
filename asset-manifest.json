@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Sorrento-by-the-Sea/static/css/main.6e960e55.chunk.css",
+    "main.css": "/Sorrento-by-the-Sea/static/css/main.6dcfdb5e.chunk.css",
     "main.js": "/Sorrento-by-the-Sea/static/js/main.ad1e201e.chunk.js",
     "main.js.map": "/Sorrento-by-the-Sea/static/js/main.ad1e201e.chunk.js.map",
     "runtime-main.js": "/Sorrento-by-the-Sea/static/js/runtime-main.cfbf31a1.js",
@@ -10,7 +10,7 @@
     "static/js/3.00794eb1.chunk.js": "/Sorrento-by-the-Sea/static/js/3.00794eb1.chunk.js",
     "static/js/3.00794eb1.chunk.js.map": "/Sorrento-by-the-Sea/static/js/3.00794eb1.chunk.js.map",
     "index.html": "/Sorrento-by-the-Sea/index.html",
-    "static/css/main.6e960e55.chunk.css.map": "/Sorrento-by-the-Sea/static/css/main.6e960e55.chunk.css.map",
+    "static/css/main.6dcfdb5e.chunk.css.map": "/Sorrento-by-the-Sea/static/css/main.6dcfdb5e.chunk.css.map",
     "static/js/2.ab0606e6.chunk.js.LICENSE.txt": "/Sorrento-by-the-Sea/static/js/2.ab0606e6.chunk.js.LICENSE.txt",
     "static/media/apartment_bath.1db7b006.jpg": "/Sorrento-by-the-Sea/static/media/apartment_bath.1db7b006.jpg",
     "static/media/apartment_front.5f1062c2.jpg": "/Sorrento-by-the-Sea/static/media/apartment_front.5f1062c2.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.cfbf31a1.js",
     "static/js/2.ab0606e6.chunk.js",
-    "static/css/main.6e960e55.chunk.css",
+    "static/css/main.6dcfdb5e.chunk.css",
     "static/js/main.ad1e201e.chunk.js"
   ]
 }
