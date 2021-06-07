@@ -1,9 +1,10 @@
 .Pricing {
-    max-width: 1024px;
+    /* max-width: 1024px; */
+    width: 90%;
     margin: 1em auto;
 }
-.card {
+.grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1em;
-} 
+}

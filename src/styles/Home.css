@@ -1,14 +1,19 @@
 
 .Home{
-    max-width:1024px;
+    width:90%;
+    /* max-width:1024px; */
     margin:1em auto;
 
 }
 .video {
+    max-width:820x;
     aspect-ratio:16/9;
     background-color: black;
     position:relative;  
+    /* text-align: center; */
+    
 }
+
 
 .video > iframe {
     position: absolute;
@@ -17,6 +22,24 @@
 
 }
 
+.homeSection1 h2 {
+    color: rgb(76, 128, 163);
+    text-align:center;
+}
+.homeSection2 h2 {
+    color: rgb(76, 128, 163);
+    text-align:center;
+}
+
+.homeSection1 ul {
+    color: rgb(95, 45, 39);
+    text-align:left;
+}
+
+.homeSection2 ul {
+    color: rgb(95, 45, 39);
+    text-align:left;
+}
 
 
 

@@ -10,10 +10,11 @@ export function Apartment(props) {
             <Banner image={BannerImage} alt="Sorrento Apartment" />
             <h2>The Apartment</h2>
 
-            <div className="card">
-
+            <div className="grid">
 
                 <div className="content">
+                <h4>The Front of the Apartment</h4>
+                    <img className ="apartment-photo"src={AppartmentFront} text="Apartment Front" />
 
                     <li> We offer a spacious living area overlooking a beautiful garden Modern and elegant bathroom </li>
                     <li>Queen sized bedroom suite </li>
@@ -25,14 +26,11 @@ export function Apartment(props) {
 
 
                 </div>
-                <div className="apartment_photo">
-                    <h4>The Front of the Apartment</h4>
-                    <img src={AppartmentFront} text="Apartment Front" />
-                </div>
+             
 
                 <div className="content">
-
-                
+                <h4>The Garden of the apartment</h4>
+                    <img className ="apartment-photo" src={AppartmentGarden} text="Apartment Garden" />
 
                     <li> The kitchenette provides everything you will need for a relaxing breakfast. We include a coffee machine and a variety of coffee pods for your enjoyment. Two TVS will keep everyone happy along with a DVD player, stereo system and games galore.</li>
                     <li> There is an undercover area complete with BBQ and shady seating that offers plenty of space to stretch out and enjoy that cup of freshly brewed coffee or glass of wine.</li>
@@ -42,18 +40,17 @@ export function Apartment(props) {
 
 
                 </div>
-                <div className="apartment_photo">
+                {/* <div className="apartment_photo">
 
-                    <h4>The Garden of the apartment</h4>
-                    <img src={AppartmentGarden} text="Apartment Garden" />
+                    
                 </div>
                 <div className="apartment_photo">
                     <h4> The Bath of the Apartment </h4>
                     <img src={AppartmentBath} text="Apartment Bathroom" />
-                </div>
+                </div> */}
 
 
-                
+
             </div>
 
 

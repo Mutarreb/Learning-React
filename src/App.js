@@ -7,7 +7,7 @@ import {Apartment} from './components/Apartment'
 import {Pricing} from './components/Pricing'
 import {Attractions} from './components/Attractions'
 import {Contact} from './components/Contact'
-import {Book} from './components/Book'
+// import {Book} from './components/Book'
 import {NotFound} from './components/NotFound'
 import {Footer} from './components/Footer'
 
@@ -16,7 +16,7 @@ const NavItems = [
   { "name": "Home", "link": "/" },
   { "name": "The Apartment", "link": "/apartment" },
   { "name": "Pricing", "link": "/pricing"},
-  { "name": "Book", "link": "/book" },
+  // { "name": "Book", "link": "/book" },
   { "name": "Attractions", "link": "/attractions"},
   { "name": "Contact", "link": "/contact" },
 ]
@@ -24,8 +24,12 @@ function App() {
   return (
     <div className=" website">
       <Header logo = {logo} nav = {NavItems}/>
+
+     
       <main className="content ">
         <Switch>
+
+          
 
           <Route exact path ="/">
             <Home/>
@@ -38,9 +42,9 @@ function App() {
             <Apartment/>
           </Route>
 
-          <Route path = "/book">
+          {/* <Route path = "/book">
             <Book/>
-          </Route>
+          </Route> */}
 
           <Route path ="/pricing">
             <Pricing/>
@@ -57,11 +61,15 @@ function App() {
           <Route path ="*">
             <NotFound />
           </Route>
-
+         
+          <Route path = "/book">
+            <logo/>
+          </Route>
           </Switch>
          
           </main>`
           <Footer/>
+          
           
 
 
