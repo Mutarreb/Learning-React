@@ -4,10 +4,7 @@ export function Home(props) {
 
         <div className="Home">
 
-            <div className="video">
-                <iframe className="video" width="560" height="315" src="https://www.youtube.com/embed/KE0SbDBw-ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-            </div>
+           
 
             <div className="grid">
                 <div className="homeSection1">
@@ -48,7 +45,10 @@ export function Home(props) {
 
                 </div>
 
+                <div className="video">
+                <iframe className="video" width="560" height="315" src="https://www.youtube.com/embed/KE0SbDBw-ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+            </div>
             </div>
 
 

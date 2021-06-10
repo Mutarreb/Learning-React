@@ -8,3 +8,12 @@
     grid-template-columns: 1fr 1fr;
     grid-gap: 1em;
 }
+
+.card h3 {
+    color: rgb(76, 128, 163);
+}
+
+.card li {
+
+    color: rgb(95, 45, 39);
+}

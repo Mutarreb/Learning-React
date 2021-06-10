@@ -1,4 +1,4 @@
-.Contact {
+.contact {
     width: 90%;
     margin: 1em auto;
 }
@@ -33,7 +33,7 @@
     border: 1px solid black;
     border-radius: 10px;
 }
-.Contact h2 {
+.contact h2 {
     color: rgb(76, 128, 163);
     text-align:center;
 }
@@ -41,3 +41,13 @@
 .map {
     text-align: center;
 }
+
+.contact ul{
+
+    color: rgb(95, 45, 39);
+}
+
+.contact label {
+    color: rgb(95, 45, 39);
+}
+

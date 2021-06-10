@@ -5,7 +5,7 @@ export function Contact(props) {
     return (
 
         <div className="grid">
-            <div className="Contact">
+            <div className="contact">
                 <h2>Contact Us</h2>
                 <form
                     id="contact-form"
@@ -15,9 +15,18 @@ export function Contact(props) {
                     <label htmlFor="name"> Name </label>
                     <input id="name" name="name" type="text" placeholder="Your name" />
 
+
+                    {/* name */}
+                    <label htmlFor="mobile"> Mobile Number</label>
+                    <input id="mobile" name="mobile" type="text" placeholder="your australian mobile" pattern="[0][0-9]{9}"/>
+
                     {/* email */}
                     <label htmlFor="email"> Email</label>
                     <input id="email" type="email" name="email" placeholder="youremail@domain.com" />
+
+                    {/* name */}
+                    <label htmlFor="address"> Address</label>
+                    <input id="address" name="address" type="address" placeholder="your address" />
 
                     {/* message */}
                     <label htmlFor="message"> Message</label>
@@ -28,7 +37,7 @@ export function Contact(props) {
                 </form>
             </div>
 
-            <div className="Contact">
+            <div className="contact">
                 <h2>How to get here</h2>
                 <ul><strong>It is easy to find.</strong></ul>
 

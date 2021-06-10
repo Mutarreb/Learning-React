@@ -5,7 +5,7 @@ export function Attractions(props) {
     return (
         <div className="Attractions">
             <Banner image={BannerImage} alt="Sorrento Attractions" />
-            <h2>Pricing</h2>
+            <h2>Attractions nearby</h2>
             <div className="grid">
                 <div className="card">
                     <h3>Wineries and Restaurants</h3>

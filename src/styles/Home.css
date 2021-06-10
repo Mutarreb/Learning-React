@@ -1,13 +1,13 @@
 
-.Home{
-    width:90%;
-    /* max-width:1024px; */
+.Home {
+    /* width:90%; */
+    max-width:1024px; 
     margin:1em auto;
 
 }
 .video {
-    max-width:820x;
-    aspect-ratio:16/9;
+    /* max-width:820x; */
+    aspect-ratio:16/12;
     background-color: black;
     position:relative;  
     /* text-align: center; */
