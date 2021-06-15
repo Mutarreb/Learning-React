@@ -1,5 +1,4 @@
 .Apartment{
-    /* max-width:1024px; */
     width :90%;
     margin:1em auto;
 }
@@ -10,22 +9,15 @@
 }
 
 
-
 .content h2 {
     color: rgb(76, 128, 163);
-    /* text-align: center; */
+ 
 }
 
 .content h4 {
     color: rgb(76, 128, 163);
-    /* text-align: center; */
 }
-/* .apartment-photo{
-    align-items: center;
-    text-align: center;
-    padding: 10px;
-    
-} */
+
 .content li{
     color: rgb(95, 45, 39);
     text-align:left;

@@ -1,4 +1,3 @@
-// Text component
 export function Text ( props ) {
 
     return (

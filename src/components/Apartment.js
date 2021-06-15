@@ -41,15 +41,7 @@ export function Apartment(props) {
 
 
                 </div>
-                {/* <div className="apartment_photo">
-
-                    
-                </div>
-                <div className="apartment_photo">
-                    <h4> The Bath of the Apartment </h4>
-                    <img src={AppartmentBath} text="Apartment Bathroom" />
-                </div> */}
-
+        
 
 
             </div>

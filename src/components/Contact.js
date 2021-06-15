@@ -11,24 +11,24 @@ export function Contact(props) {
                     id="contact-form"
                     action="https://example.com/handler"
                     method="post">
-                    {/* name */}
+                    
                     <label htmlFor="name"> Name </label>
                     <input id="name" name="name" type="text" placeholder="Your name" />
 
 
-                    {/* name */}
+                    
                     <label htmlFor="mobile"> Mobile Number</label>
                     <input id="mobile" name="mobile" type="text" placeholder="your australian mobile" pattern="[0][0-9]{9}"/>
 
-                    {/* email */}
+                   
                     <label htmlFor="email"> Email</label>
                     <input id="email" type="email" name="email" placeholder="youremail@domain.com" />
 
-                    {/* name */}
+                   
                     <label htmlFor="address"> Address</label>
                     <input id="address" name="address" type="address" placeholder="your address" />
 
-                    {/* message */}
+                  
                     <label htmlFor="message"> Message</label>
                     <textarea id="message" rows="5" cols="24" placeholder="Hello there, how can we help you?"></textarea>
                     <button type="reset"> Clear </button>

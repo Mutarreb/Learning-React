@@ -17,12 +17,12 @@ export function Header(props) {
 
         <header className="header">
             <Link to="/">
-            <img className="logo" src={props.logo} />
+            <img className="logo" src={props.logo} alt="" />
             </Link>
             <nav className="navigation">
                 {Navigation}
             </nav>
-            {/* <Link to="/" className ="button"> </Link> */}
+          
         </header>
 
     )
