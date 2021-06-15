@@ -1,4 +1,4 @@
-import { NavLink } from 'react-router-dom'
+import {Link, NavLink } from 'react-router-dom'
 import '../styles/Header.css'
 export function Header(props) {
     const Navigation = props.nav.map((item) => {
@@ -16,10 +16,13 @@ export function Header(props) {
     return (
 
         <header className="header">
+            <Link to="/">
             <img className="logo" src={props.logo} />
+            </Link>
             <nav className="navigation">
                 {Navigation}
             </nav>
+            {/* <Link to="/" className ="button"> </Link> */}
         </header>
 
     )
