@@ -4,23 +4,25 @@
 }
 
 .apartment-photo {
-    justify-self: center;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 92%; 
 }
-
-
 .content h2 {
     color: rgb(76, 128, 163);
+    text-align: left;
  
 }
 
 .content h4 {
     color: rgb(76, 128, 163);
+    text-align: center;
 }
 
 .content li{
     color: rgb(95, 45, 39);
-    text-align:left;
+    text-align: left;
     padding: 8px;
 }
 

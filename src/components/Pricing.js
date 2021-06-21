@@ -4,11 +4,21 @@ import '../styles/Pricing.css'
 export function Pricing(props) {
     return (
         <div className="Pricing">
-            <Banner image={BannerImage} />
-            <h2>Pricing</h2>
+            <Banner image={BannerImage} alt ="Banner-image" />
+            <h4>Pet friendly</h4>
+            <ul>
+                <li>We understand that pets are an important part of the family.</li>
+                <li>
+                We are pet friendly by arrangement - so please talk to us about your needs.
+            </li>
+                <li>We offer a fully enclosed backyard, shady trees, water bowls, food bowls and a lead if you forget one.</li>
+                <li>Only 3 minutes from a leash free beach, an oval close by and if you want to sleep in we are happy to take your dog (depending on its size) for a walk in the morning.  </li>
+            </ul>
+
+            
             <div className="grid">
                 <div className="card">
-                    <h3>Winter</h3>
+                    <h3>Winter Pricing</h3>
                     <ul>
                         <li>The pricing is for 2 people.</li>
                         <li>1st June - August 31st</li>
@@ -17,7 +27,7 @@ export function Pricing(props) {
                     </ul>
                 </div>
                 <div className="card">
-                    <h3>Summer</h3>
+                    <h3>Summer Pricing</h3>
                     <ul>
                         <li>1st September - December 18th</li>
                         <li>1st February - 31st May</li>
@@ -38,16 +48,7 @@ export function Pricing(props) {
                 <li>Monthly Price $5,400</li>
             </ul>
 
-            <h4>Pet friendly</h4>
-            <ul>
-                <li>We understand that pets are an important part of the family.</li>
-                <li>
-                We are pet friendly by arrangement - so please talk to us about your needs.
-            </li>
-                <li>We offer a fully enclosed backyard, shady trees, water bowls, food bowls and a lead if you forget one.</li>
-                <li>Only 3 minutes from a leash free beach, an oval close by and if you want to sleep in we are happy to take your dog (depending on its size) for a walk in the morning.  </li>
-            </ul>
-
+            
         </div>
     )
 }

@@ -21,7 +21,6 @@ export function Footer(props) {
         </ul>
       </nav>
 
-      
 
       <div class="address"> 
       <ul> <h4>Address</h4> 

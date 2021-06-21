@@ -17,7 +17,7 @@ export function Header(props) {
 
         <header className="header">
             <Link to="/">
-            <img className="logo" src={props.logo} alt="" />
+            <img className="logo" src={props.logo} alt=" "/>
             </Link>
             <nav className="navigation">
                 {Navigation}

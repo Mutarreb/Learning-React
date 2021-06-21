@@ -14,7 +14,7 @@ export function Apartment(props) {
 
                 <div className="content">
                 <h4>The Front of the Apartment</h4>
-                    <img className ="apartment-photo"src={AppartmentFront} text="Apartment Front" />
+                    <img className ="apartment-photo"src={AppartmentFront} alt="Apartment Front" />
                     
                     
                     <li> We offer a spacious living area overlooking a beautiful garden Modern and elegant bathroom </li>
@@ -31,7 +31,7 @@ export function Apartment(props) {
 
                 <div className="content">
                 <h4>The Garden of the apartment</h4>
-                    <img className ="apartment-photo" src={AppartmentGarden} text="Apartment Garden" />
+                    <img className ="apartment-photo" src={AppartmentGarden} alt="Apartment Garden" />
 <br></br>
                     <li> The kitchenette provides everything you will need for a relaxing breakfast. We include a coffee machine and a variety of coffee pods for your enjoyment. Two TVS will keep everyone happy along with a DVD player, stereo system and games galore.</li>
                     <li> There is an undercover area complete with BBQ and shady seating that offers plenty of space to stretch out and enjoy that cup of freshly brewed coffee or glass of wine.</li>
